@@ -2,6 +2,6 @@
 
 All notable changes to `webex` will be documented in this file
 
-## 1.0.0 - 201X-XX-XX
+## v1.0.0 - 2021-01-01
 
-- initial release
+- Initial Release
