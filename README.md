@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/laravel-notification-channels/webex/test.yml?branch=main&style=flat-square)](https://github.com/laravel-notification-channels/webex/actions/workflows/test.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/webex.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/webex)
 
-This package makes it easy to send notifications using [Webex](https://www.webex.com/) with Laravel 10.x.
+This package makes it easy to send notifications using [Webex](https://www.webex.com/) with Laravel 10.x. Test
 
 ```php
 /**
